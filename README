@@ -1,3 +1,5 @@
 This repository contains Javascript files that I have created and worked on in order to learn and gain a better understanding of the language.
 
 bigDiff.js: Returns the difference between the largest and smallest numbers in an array.
+
+countEvens.js: Returns the number of even numbers contained within an array.
