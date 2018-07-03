@@ -1,4 +1,4 @@
-This repository contains Javascript files that I have created and worked on in order to learn and gain a better understanding of the language.
+This repository contains Javascript files that I have created and worked on in order to learn and gain a better understanding of the language. A lot of these will be similar to the Python scripts in my Python-Scripts repository. Using the logic of the Python scripts helps me learn the syntax of a new language.
 
 bigDiff.js: Returns the difference between the largest and smallest numbers in an array.
 
