@@ -2,4 +2,4 @@ This repository contains Javascript files that I have created and worked on in o
 
 bigDiff.js: Returns the difference between the largest and smallest numbers in an array.
 
-countEvens.js: Returns the number of even numbers contained within an array.
+countEvens.js: Takes a given array and returns a new array made up of the even numbers from the given array.
