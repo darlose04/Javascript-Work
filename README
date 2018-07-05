@@ -5,3 +5,5 @@ bigDiff.js: Returns the difference between the largest and smallest numbers in a
 countEvens.js: Takes a given array and returns a new array made up of the even numbers from the given array.
 
 countString.js: Counts the number of words in a string.
+
+countVowels.js: Counts the number of each vowel (a, e, i, o, u) as well as the total number of vowels.
