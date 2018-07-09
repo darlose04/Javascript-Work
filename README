@@ -7,3 +7,5 @@ countEvens.js: Takes a given array and returns a new array made up of the even n
 countString.js: Counts the number of words in a string.
 
 countVowels.js: Counts the number of each vowel (a, e, i, o, u) as well as the total number of vowels.
+
+tempConversions.js: Consists of two functions, one which converts from Celsius to Fahrenheit and one which converts Fahrenheit to Celsius.
