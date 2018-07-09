@@ -9,3 +9,5 @@ countString.js: Counts the number of words in a string.
 countVowels.js: Counts the number of each vowel (a, e, i, o, u) as well as the total number of vowels.
 
 tempConversions.js: Consists of two functions, one which converts from Celsius to Fahrenheit and one which converts Fahrenheit to Celsius.
+
+reverseString.js: Contains two separate functions that reverse a given string. One function uses .split().reverse().join() and the other function turns the string into an array, loops through it backwards, and then pushes it to a new array.  
