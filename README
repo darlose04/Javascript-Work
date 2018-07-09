@@ -12,4 +12,4 @@ tempConversions.js: Consists of two functions, one which converts from Celsius t
 
 reverseString.js: Contains two separate functions that reverse a given string. One function uses .split().reverse().join() and the other function turns the string into an array, loops through it backwards, and then pushes it to a new array.  
 
-factorial.js: Function that returns the factorial value of a given number.
+factorialize.js: Function that returns the factorial value of a given number.
