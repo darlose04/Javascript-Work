@@ -1,4 +1,6 @@
-This repository contains Javascript files that I have created and worked on in order to learn and gain a better understanding of the language. A lot of these will be similar to the Python scripts in my Python-Scripts repository. Using the logic of the Python scripts helps me learn the syntax of a new language.
+This repository contains Javascript files that I have created and worked on in order to learn and gain a better understanding of the language. 
+A lot of these will be similar to the Python scripts in my Python-Scripts repository. 
+Using the logic of the Python scripts helps me learn the syntax of a new language.
 
 bigDiff.js: Returns the difference between the largest and smallest numbers in an array.
 
@@ -10,7 +12,9 @@ countVowels.js: Counts the number of each vowel (a, e, i, o, u) as well as the t
 
 tempConversions.js: Consists of two functions, one which converts from Celsius to Fahrenheit and one which converts Fahrenheit to Celsius.
 
-reverseString.js: Contains two separate functions that reverse a given string. One function uses .split().reverse().join() and the other function turns the string into an array, loops through it backwards, and then pushes it to a new array.  
+reverseString.js: Contains two separate functions that reverse a given string. 
+One function uses .split().reverse().join() and the other function turns the string 
+into an array, loops through it backwards, and then pushes it to a new array.  
 
 factorialize.js: Function that returns the factorial value of a given number.
 
