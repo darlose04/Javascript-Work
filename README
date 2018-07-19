@@ -23,3 +23,5 @@ largestNumsInArrays.js: Returns an array consisting of the largest number from e
 confirmEnding.js: Checks if a string ends with the given target string
 
 longestWord.js: Returns the length of the longest word in the provided sentence.
+
+repeatString.js: Repeats a given string for num times. Returns an empty string if num is not a positive number.
