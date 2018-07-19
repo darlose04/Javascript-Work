@@ -17,3 +17,5 @@ factorialize.js: Function that returns the factorial value of a given number.
 largestNumsInArrays.js: Returns an array consisting of the largest number from each provided sub-array.
 
 confirmEnding.js: Checks if a string ends with the given target string
+
+longestWord.js: Returns the length of the longest word in the provided sentence.
