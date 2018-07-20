@@ -25,3 +25,5 @@ confirmEnding.js: Checks if a string ends with the given target string
 longestWord.js: Returns the length of the longest word in the provided sentence.
 
 repeatString.js: Repeats a given string for num times. Returns an empty string if num is not a positive number.
+
+truncateString.js: Truncates a string if it is longer than the given maximum string length. Returns the truncated string with a "..." ending unless the num parameter is equal to or greater than the length of the string.
