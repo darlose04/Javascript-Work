@@ -1,0 +1,1 @@
+This script scrapes the website https://www.books.toscrape.com/ and returns the titles and prices of every book listed on the site and then adds the book title and price to a connected MongoDB database. It uses Puppeteer to scrape the site and Mongoose to connect to the database.
